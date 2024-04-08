@@ -1,2 +1,2 @@
-# you are my sunshine
- first repository
+# Hello world!
+ This is my first repository, made just for learning purposes.
